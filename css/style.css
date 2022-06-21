@@ -1,0 +1,176 @@
+body{
+    background-color:  #E5E5E5;
+    
+}
+header{
+    background-color: #562EFF;
+}
+
+
+.navbar-section{
+    max-width: 870px;
+    margin: 0 auto;
+}
+.navbar-logo img{
+    width: 40px;
+    height: 52px;
+}
+.nav-link{
+    color: white;
+}
+.navbar .nav-item{
+    margin-left: 36px;
+}
+.navbar .nav-item img{
+    width: 51px;
+    height: 51px;
+}
+
+
+
+.top-main-section{
+    background-color: white;
+    max-width: 870px;
+    margin: 36px auto 21px auto;
+    border-radius: 5px;
+}
+
+
+
+
+.top-player-section{
+    padding: 30px 0 30px 30px;
+}
+.top-palyer-text{
+    margin-bottom: 10px;
+    color: #562EFF;
+}
+.top-players img{
+    width: 56px;
+    height: 56px;
+    display: inline;
+}
+.top-players p{
+    display: inline;
+    margin-left: 16px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.players{
+    padding-top: 30px;
+}
+
+
+
+.horizontal-line{
+    max-width: 807px;
+    margin: 0 auto;
+}
+
+
+
+.top-blog-section{
+    padding: 30px 0 30px 30px;
+}
+.top-blog-text{
+    color: #562EFF;
+    margin-bottom: 5px;
+}
+.top-blog-area img{
+    width: 177px;
+}
+.blogs{
+    display: flex;
+    margin-top: 26px;
+}
+.blog-text{
+    padding: 6px 16px;
+}
+.blog-text span{
+    color: #A2A2A2;
+}
+
+
+
+
+.letest-course-section{
+    max-width: 870px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 30px 0 30px 30px;
+}
+.letest-course-text{
+    color: #562EFF;
+}
+.letest-courses-area{
+    margin-left: 18px;
+}
+.courses-card{
+    max-width: 252px;
+    height: 270px;
+    box-shadow: 1px 1px 10px lightgray;
+    padding: 13px;
+    margin-top: 10px;
+    margin-right: 23px;
+}
+.courses-card img{
+    width: 224px;
+    height: 104px;
+}
+.courses-text{
+    margin-top: 16px;
+}
+.courses-text a{
+    color: #ED6B4F;
+}
+
+.courses-card-bottom{
+    margin-top: 13px;
+}
+.stars img{
+    width: 12.39px;
+    height: 11.81px;
+}
+.rating{
+    color: #A2A2A2;
+}
+.time{
+    width: 95px;
+    height: 29px;
+    border-radius: 10px;
+    background-color: #FFE4E8;
+    color: #FF4A60;
+    font-weight: bold;
+}
+.time img{
+    width: 20px;
+    height: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 372px) {
+    .blogs{
+        display: block;
+    }
+    .blog-text{
+        padding: 10px 0;
+    }
+}
